@@ -1,1 +1,1 @@
-select * from tbl_activequeris
+select * from tbl_activequeris11
